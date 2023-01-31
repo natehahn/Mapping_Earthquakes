@@ -2,7 +2,8 @@
 console.log("working");
 
 // Create the map object with a center and zoom level.
-let map = L.map('mapid').setView([39.65, -96.14], 4);
+let map = L.map('mapid').setView([39.65, -96.14], 7);
+// Coordinates for each point to be used in the line.
 
 // Create the map object with a center and zoom level.
 //let map = L.map("mapid", {
